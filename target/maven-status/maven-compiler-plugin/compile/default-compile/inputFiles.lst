@@ -1,1 +1,5 @@
-D:\CMS1\day5\src\main\java\com\bawei\test\Demo.java
+D:\CMS1\day5\src\main\java\com\bawei\mapper\GoodsMapper.java
+D:\CMS1\day5\src\main\java\com\bawei\service\GoodsService.java
+D:\CMS1\day5\src\main\java\com\bawei\service\GoodsServiceImpl.java
+D:\CMS1\day5\src\main\java\com\bawei\controller\GoodsController.java
+D:\CMS1\day5\src\main\java\com\bawei\entity\Goods.java
